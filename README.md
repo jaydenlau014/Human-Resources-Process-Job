@@ -1,4 +1,4 @@
-# Human Resources Process Job
+# Job Change into Data Scientists Prediction
 * Create machine learning models that help the HR department to predict job change into data scientists.
 * Interpretation of relationship between independent variables and dependent variables (job change).
 * Create and compare various machine learning models (Logistic Regression, Random Forest, XGBoost, and KNeighbors classifier) that predict job change.
